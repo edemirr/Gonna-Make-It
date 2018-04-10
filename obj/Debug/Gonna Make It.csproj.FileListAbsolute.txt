@@ -1,0 +1,9 @@
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\bin\Debug\Gonna Make It.exe.config
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\bin\Debug\Gonna Make It.exe
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\bin\Debug\Gonna Make It.pdb
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna_Make_It.Form1.resources
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna_Make_It.Properties.Resources.resources
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna Make It.csproj.GenerateResource.Cache
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna Make It.exe
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna Make It.pdb
+C:\Users\Emrullah\Desktop\Gonna Make It\Gonna Make It\obj\Debug\Gonna_Make_It.Form2.resources
